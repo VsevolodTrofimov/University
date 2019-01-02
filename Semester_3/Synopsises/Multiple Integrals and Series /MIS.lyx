@@ -449,7 +449,7 @@ LatexCommand tableofcontents
 \begin_layout Definition
 \begin_inset Formula $x$
 \end_inset
-
+е
  — предельная точка 
 \begin_inset Formula $X$
 \end_inset
@@ -597,7 +597,7 @@ y_{n}
 , то 
 \begin_inset Formula 
 \[
-\rho(x,y)=\sqrt{\sum_{i=1}^{n}\left(x_{i}-y_{1}\right)^{2}}
+\rho(x,y)=\sqrt{\sum_{i=1}^{n}\left(x_{i}-y_{i}\right)^{2}}
 \]
 
 \end_inset
